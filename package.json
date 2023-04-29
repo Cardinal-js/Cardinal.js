@@ -1,0 +1,19 @@
+{
+  "name": "cardinal",
+  "version": "1.0.0",
+  "description": "A markup language like no other!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cardinal-js/Cardinal.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "HTML"
+  ],
+  "author": "Poofmoyo <poofmoyo@aol.com>",
+  "license": "MIT"
+}
